@@ -1,0 +1,80 @@
+.main-container{
+    text-align: center;
+    border: 2px solid black;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+    top: 23px;
+    border-radius: 15px;
+   
+}
+.header{
+    border: 2px solid red;
+    background-color:#e15454;
+box-shadow: -200px -3px -4px 5px 8px 5px;
+/* color: white; */
+border-radius: 15px 15px;
+}
+.role{
+   text-align: left;
+   position: relative;
+   left: 20px;
+   bottom: 23px;
+
+}
+.first-box{
+    /* border: 2px solid blue; */
+    height: 70px; 
+     width: 70px; 
+    display: block;
+    position: relative;
+    left: 23px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 30px;
+    background-color: rgb(132, 225, 132);
+    color: white;
+
+}
+.second-box{
+    /* border: 2px solid green; */
+    height: 70px; 
+     width: 70px; 
+     display: block;
+    position: relative;
+    left: 23px;
+    float: right;
+    margin-left: 10px;
+    background-color: rgb(132, 225, 132);
+    color: white;
+}
+.third-box{
+    /* border: 2px solid blue; */
+     height: 70px; 
+     width: 70px;
+    display: block;
+    position: relative;
+    left: 23px;
+    float: right;
+    margin-left: 30px;
+    background-color: rgb(132, 225, 132);
+    color: white;
+}
+.fourth-box{
+    /* border: 2px solid blue; */
+    height: 70px; 
+     width: 70px;
+     display: block;
+    position: relative;
+    left: 23px;
+    float: right;
+    margin-left: 30px;
+    background-color: rgb(132, 225, 132);
+    color: white;
+}
+.score{
+    position: relative;
+    left: 200px;
+    
+}
